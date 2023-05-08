@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0UKaAMcqNRMWKwbsJ4EWdJZn7vO1ryICOXhuKjLG20E4e2xVw9DCOrlCv/iRkddz4Mze86fHrUY30pnCZ7/EDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mamis\\AIAPI\\AIAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mamis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
